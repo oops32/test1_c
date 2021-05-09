@@ -29,10 +29,8 @@ int vuln() {
 }
 
 int main(int argc, char *argv[]) {
-    // Call vulnerable function
     vuln();
 
-    // Return success
     return 0;
 }
 
