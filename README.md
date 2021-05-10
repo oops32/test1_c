@@ -11,3 +11,13 @@ asidsjadioasdijaisd
 
 
 Awskey : "AKIAZIQ5SEHJMYAZQHT5"
+
+
+
+
+
+aaaaaaaaaaaaaaa
+
+
+
+AWSsecret= "DVBebJUzQ/crFdRfFZaAgW6LuqqZXVehxuVs7UyQ"
